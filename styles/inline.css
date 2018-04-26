@@ -406,8 +406,8 @@ body {
     background-color: #3f51b5; }
 
 
-   .botonimagen{
-      background-image:url("/images/clear.png");
+.botonimagen{
+      background-image:url(/images/clear.png);
       background-repeat:no-repeat;
       height:100px;
       width:100px;
