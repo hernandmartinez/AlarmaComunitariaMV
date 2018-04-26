@@ -407,7 +407,7 @@ body {
 
 
    .botonimagen{
-      background-image:url(clear.png);
+      background-image:url("/images/clear.png");
       background-repeat:no-repeat;
       height:100px;
       width:100px;
